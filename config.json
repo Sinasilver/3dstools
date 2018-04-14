@@ -11,6 +11,11 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
                 {
+			"name": "MultiUpdater Config Confirmation",
+			"url": "https://github.com/Sinasilver/3dstools/blob/master/config.json",
+			"path": "/3ds/MultiUpdater/config.json"
+		},
+                {
 			"name": "GodMode9 (latest release)",
 			"url": "https://github.com/d0k3/GodMode9",
 			"inrelease": "GodMode9.*\\.zip",
