@@ -7,7 +7,7 @@
 	"entries": [
 		{
 			"name": "MultiUpdater Config",
-			"url": "https://github.com/Sinasilver/3dstools/config.json",
+			"url": "https://github.com/Sinasilver/3dstools/blob/master/config.json",
 			"path": "/3ds/MultiUpdater/config.json"
 		},
                 {
