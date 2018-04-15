@@ -1,0 +1,68 @@
+{
+	"config": {
+		"self_updater": false,
+		"delete_archives": true,
+		"delete_cias": false
+	},
+	"entries": [
+		{
+			"name": "MultiUpdater Config - Perform this Twice",
+			"url": "https://github.com/Sinasilver/3dstools/",
+			"inrelease": "MultiUpdater.json",
+			"path": "/3ds/MultiUpdater/config.json"
+		},
+                {
+			"name": "CTRXplorer",
+			"url": "https://github.com/d0k3/CTRXplorer",
+			"inrelease": "CTRXplorer\\.cia",
+			"path": "/cias/CTRXplorer.cia"
+		},
+		{
+			"name": "GodMode9",
+			"url": "https://github.com/d0k3/GodMode9",
+			"inrelease": "GodMode9.*\\.zip",
+			"inarchive": "GodMode9\\.firm",
+			"path": "/luma/payloads/GodMode9.firm"
+		},
+		{
+			"name": "Luma3DS",
+			"url": "https://github.com/AuroraWright/Luma3DS",
+			"inrelease": "Luma3DS.*\\.7z",
+			"inarchive": "boot\\.firm",
+			"path": "/boot.firm"
+		},
+		{
+			"name": "CTRNAND Luma3DS",
+			"url": "https://github.com/AuroraWright/Luma3DS",
+			"inrelease": "Luma3DS.*\\.7z",
+			"inarchive": "boot\\.firm",
+			"path": "ctrnand:/boot.firm"
+		},
+		{
+			"name": "FBI",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.cia",
+			"path": "/cia/FBI.cia"
+		},
+		{
+			"name": "Anemone3DS",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.cia",
+			"path": "/cia/Anemone3DS.cia"
+		},
+		{
+			"name": "Checkpoint",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.cia",
+			"path": "/cia/Checkpoint.cia"
+		},
+		{
+			"name": "PKSM",
+			"url": "https://github.com/BernardoGiordano/PKSM",
+			"inrelease": "PKSM\\.cia",
+			"path": "/cia/PKSM.cia"
+		}
+		
+		
+	]
+}
